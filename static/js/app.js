@@ -59,3 +59,4 @@ function doubleAddition(65, 34) {
   
   // Build the table when the page loads
   buildTable(tableData);
+  
